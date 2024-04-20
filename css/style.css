@@ -419,4 +419,8 @@ footer{
   .services-items {
     grid-template-columns: 1fr;
   }
+  .footer-wrapper{
+    flex-direction: column;
+    align-items: start;
+  }
 }
