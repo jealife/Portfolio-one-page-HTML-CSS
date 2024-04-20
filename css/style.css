@@ -97,6 +97,7 @@ font-size: small;
   background-color: #ededed;
   box-shadow: -10px -10px 30px #ffffff, 10px 10px 30px #aeaec05f;
   padding: 0.25rem 0.25rem;
+
 }
 .email {
   border-radius: 900px;
@@ -123,6 +124,7 @@ a::selection {
 }
 
 .download-cv a {
+  font-size : small;
   border-radius: 900px;
   padding: 0.55rem 1.5rem;
   background-color: #ffffff;
