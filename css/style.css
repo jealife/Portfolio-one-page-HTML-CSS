@@ -182,6 +182,7 @@ a::selection {
 }
 
 .hero-wrapper h2 {
+  color: #212020;
   font-size: xx-large;
   font-weight: 600;
 }
@@ -210,6 +211,7 @@ a::selection {
 }
 
 .companies-logos-wrapper {
+  color: #212020;
   width: 100%;
   max-width: 1224px;
   margin: 0 auto;
@@ -265,6 +267,7 @@ a::selection {
   position: absolute;
 }
 .services-title {
+  color: #212020;
   width: 100%;
   text-align: center;
   position: relative;
@@ -299,6 +302,10 @@ a::selection {
   line-clamp: 3;
   -webkit-line-clamp: 3;
   -webkit-box-orient: vertical;
+}
+.item-icon{
+  font-size: xx-large;
+  color: #212020;
 }
 
 .hire-me{
@@ -348,6 +355,11 @@ a::selection {
   background-color: #fff;
   color: #212020;
   outline: #d9d9db 2px solid;
+}
+
+.hire-me-wrapper .icon i{
+  font-size: 4rem;
+  color: #212020;
 }
 
 
