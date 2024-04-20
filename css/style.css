@@ -46,7 +46,7 @@ a {
   border-radius: 10px;
 }
 body {
-  font-family: GeneralSans-Regular;
+  font-family: "Poppins", sans-serif;
   overflow-x: clip;
   background-color: #f7f7f7;
 }
@@ -168,7 +168,6 @@ a::selection {
 .hero-section .hero-wrapper .picture span {
   width: max-content;
   color: #212020;
-  font-family: GeneralSans-variable;
   font-size: small;
   font-weight: 500;
   position: absolute;
@@ -183,7 +182,6 @@ a::selection {
 
 .hero-wrapper h2 {
   font-size: xx-large;
-  font-family: GeneralSans-variable;
   font-weight: 600;
 }
 .hero-wrapper h2 > span {
@@ -247,7 +245,6 @@ a::selection {
 .services .services-wrapper .services-head h2 {
   color: #212020;
   font-size: xx-large;
-  font-family: GeneralSans-variable;
   font-weight: 600;
   text-align: center;
 }
@@ -279,8 +276,7 @@ a::selection {
   left: 50%;
   transform: translate(-50%, -75%);
   rotate: -15deg;
-  font-family: GeneralSans-variable;
-  font-weight: 600;
+  font-weight: 500;
   font-size: small;
 }
 
@@ -325,7 +321,6 @@ a::selection {
 }
 .hire-me-wrapper h2{
   color: #212020;
-  font-family: GeneralSans-variable;
   font-weight: 600;
   font-size: xx-large;
   text-align: center;
@@ -339,7 +334,6 @@ a::selection {
   align-items: center;
 }
 .hire-me-btns>a{
-  font-family: GeneralSans-variable;
   font-weight: 600;
   border-radius: 900px;
   padding: 0.80rem 1.5rem;
