@@ -87,6 +87,7 @@ nav {
   display: flex;
   gap: 1rem;
   align-items: center;
+font-size: small;
 }
 .download-cv {
   display: flex;
